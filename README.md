@@ -16,7 +16,7 @@ this system is simple add/edit/delete students and deparments and remove student
 - Entity Framework Core
 - ASP.NET
 
-  ## Features:
+## Features:
 - Creation: Add new student or department and store the recodes in the database
 - Reading: Retrieve and view department and student information
 - Updating: Update the information of an existing departments or student
