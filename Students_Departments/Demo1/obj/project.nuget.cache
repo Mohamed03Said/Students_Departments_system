@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ATMqnIhpA4LL5kVEtZPjRKmfGVPxlPzk5/TRziLRtF/ILHkOksoiByqCHc5LMqyFsP/HJkAOaUGO7VpyFLh2rQ==",
+  "dgSpecHash": "rjGuE9oFvSApqucVaLU2ChkA1xkkN6a8RkCmCEK8AWX4t0GtdGCFLPOVih6IKLs0e3fqQtddKHnMrv5DC+G/LQ==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\ITI summer training (.Net)\\ASP.NET core mvc\\MohamedSaidEbrahim_mvc\\Demo1\\Demo1.csproj",
+  "projectFilePath": "D:\\Programming\\Projects\\ASP.NET\\Students_Deparmtents system\\Students_Departments\\Demo1\\Demo1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\محمد\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\محمد\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

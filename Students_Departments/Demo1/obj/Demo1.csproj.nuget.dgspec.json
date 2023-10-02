@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\ITI summer training (.Net)\\ASP.NET core mvc\\MohamedSaidEbrahim_mvc\\Demo1\\Demo1.csproj": {}
+    "D:\\Programming\\Projects\\ASP.NET\\Students_Deparmtents system\\Students_Departments\\Demo1\\Demo1.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\ITI summer training (.Net)\\ASP.NET core mvc\\MohamedSaidEbrahim_mvc\\Demo1\\Demo1.csproj": {
+    "D:\\Programming\\Projects\\ASP.NET\\Students_Deparmtents system\\Students_Departments\\Demo1\\Demo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\ITI summer training (.Net)\\ASP.NET core mvc\\MohamedSaidEbrahim_mvc\\Demo1\\Demo1.csproj",
+        "projectUniqueName": "D:\\Programming\\Projects\\ASP.NET\\Students_Deparmtents system\\Students_Departments\\Demo1\\Demo1.csproj",
         "projectName": "Demo1",
-        "projectPath": "D:\\Programming\\ITI summer training (.Net)\\ASP.NET core mvc\\MohamedSaidEbrahim_mvc\\Demo1\\Demo1.csproj",
+        "projectPath": "D:\\Programming\\Projects\\ASP.NET\\Students_Deparmtents system\\Students_Departments\\Demo1\\Demo1.csproj",
         "packagesPath": "C:\\Users\\محمد\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\ITI summer training (.Net)\\ASP.NET core mvc\\MohamedSaidEbrahim_mvc\\Demo1\\obj\\",
+        "outputPath": "D:\\Programming\\Projects\\ASP.NET\\Students_Deparmtents system\\Students_Departments\\Demo1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

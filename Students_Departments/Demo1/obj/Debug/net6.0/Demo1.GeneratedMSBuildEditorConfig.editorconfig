@@ -9,85 +9,85 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Demo1
 build_property.RootNamespace = Demo1
-build_property.ProjectDir = D:\Programming\ITI summer training (.Net)\ASP.NET core mvc\MohamedSaidEbrahim_mvc\Demo1\
+build_property.ProjectDir = D:\Programming\Projects\ASP.NET\Students_Deparmtents system\Students_Departments\Demo1\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Programming\ITI summer training (.Net)\ASP.NET core mvc\MohamedSaidEbrahim_mvc\Demo1
+build_property.MSBuildProjectDirectory = D:\Programming\Projects\ASP.NET\Students_Deparmtents system\Students_Departments\Demo1
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Departments/Create.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Departments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Departments/Details.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Departments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Departments/Index.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Departments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Departments/Update.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Departments/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Home/Index.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Home/Privacy.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Models/Display.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Models/Display.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxzXERpc3BsYXkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Shared/Error.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Shared/Error01.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Shared/Error01.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yMDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Shared/Search.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Shared/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNlYXJjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Shared/_Layout01.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Shared/_Layout01.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQwMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Students/Create.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Students/Details.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Students/Index.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Students/Update.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Students/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/_ViewImports.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/_ViewStart.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programming/ITI summer training (.Net)/ASP.NET core mvc/MohamedSaidEbrahim_mvc/Demo1/Views/Shared/_Layout.cshtml]
+[D:/Programming/Projects/ASP.NET/Students_Deparmtents system/Students_Departments/Demo1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1qd6e6u8nb
