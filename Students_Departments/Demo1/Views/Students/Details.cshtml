@@ -1,0 +1,18 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Student Details";
+    Layout = "_Layout01";
+}
+<div class="alert alert-danger fs-3 fw-bold">
+    <li>ID :  @Model.Id</li>
+    <li>Name :  @Model.Name</li>
+    <li>Age :  @Model.Age</li>
+    <li>Department :  @(Model.Department?.DeptName ?? "No Department")</li>
+    <li>Email :  @Model.Email</li>
+    </div>
+
+    @{/*<h1 class="alert alert-danger">
+    @Model.Id : @Model.Name : @Model.Age : @(Model.Department?.DeptName?? "No Department") :  @Model.Email
+    </h1>
+    */}
+<a asp-controller="students" asp-action="index" class="btn btn-primary">Back</a>

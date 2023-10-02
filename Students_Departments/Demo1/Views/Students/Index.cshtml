@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Student>
+@{
+    ViewData["Title"] = "Students list";
+    Layout = "_Layout";
+}
+
+    <a asp-controller="students" asp-action="create" class="btn btn-success"> Create <span class="badge bg-info"> @Model.Count()</span></a>
+<form asp-controller="students" asp-action="search">
+    <div class="input-group">
+		<input type="text" name="searchTerm" class="form-control col-md-5" placeholder="Enter search term">
+        <select name="searchType" class="form-select col-sm-2">
+			<option value="id">Search by ID</option>
+			<option value="name">Search by Name</option>
+		</select>
+        <button type="submit" class="btn btn-primary col-md-2">Search</button>
+        </div>
+</form>
+    <table class="table table-hover table-bordered">
+        <tdead>
+          <tr>
+              <th>ID</th>
+               <th>Name</th>
+               <th>Department</th>
+               <th>Operation</th>
+                </tr>
+        </tdead>
+        <tbody>
+                @{
+                    foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@(item.Id)</td>
+                            <td>@(item.Name)</td>
+                            <td>@(item.Department?.DeptName)</td>
+                            <td>
+							<a asp-controller="students" asp-action="details" asp-route-id="@item.Id" class="btn btn-primary"> Details</a>
+                            &nbsp;
+                            <a asp-controller="students" asp-action="delete" asp-route-id="@item.Id" onclick="return confirm('Are you sure to delete this student?')" class="btn btn-danger"> Delete</a>
+                            &nbsp;
+                            <a asp-controller="students" asp-action="update" asp-route-id="@item.Id" class="btn btn-primary"> Edit</a>
+                        </td>
+                        </tr>
+                    }
+                }               
+        </tbody>
+</table>

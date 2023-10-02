@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Student>
+@{
+    ViewData["Title"] = "Search";
+    Layout = "_Layout";
+}
+
+<table class="table table-hover table-bordered">
+    <tdead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Operation</th>
+        </tr>
+    </tdead>
+    <tbody>
+        @{
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@(item.Id)</td>
+                    <td>@(item.Name)</td>
+                    <td>@(item.Department?.DeptName)</td>
+                    <td>
+                        <a asp-controller="students" asp-action="details" asp-route-id="@item.Id" class="btn btn-primary"> Details</a>
+                        &nbsp;
+                        <a asp-controller="students" asp-action="delete" asp-route-id="@item.Id" onclick="return confirm('Are you sure to delete this student?')" class="btn btn-danger"> Delete</a>
+                        &nbsp;
+                        <a asp-controller="students" asp-action="update" asp-route-id="@item.Id" class="btn btn-primary"> Edit</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<a asp-controller="students" asp-action="index" class="btn btn-primary">Back</a>

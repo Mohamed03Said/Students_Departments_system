@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Department>
+@{
+    ViewData["Title"] = "Departments list";
+    Layout = "_Layout";
+}
+
+<a href="/departments/create" class="btn btn-success"> Create <span class="badge bg-info"> @Model.Count()</span></a>
+<table class="table table-hover table-bordered">
+    <tdead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Operation</th>
+        </tr>
+    </tdead>
+    <tbody>
+        @{
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@(item.DeptId)</td>
+                    <td>@(item.DeptName)</td>
+                    <td>
+                        <a asp-controller="departments" asp-action="details" asp-route-id="@item.DeptId" class="btn btn-primary"> Details</a>
+                        &nbsp;
+                        <a asp-controller="departments" asp-action="delete" asp-route-id="@item.DeptId" onclick="return confirm('Are you sure to delete this Department?')" class="btn btn-danger"> Delete</a>
+                        &nbsp;
+                        <a asp-controller="departments" asp-action="update" asp-route-id="@item.DeptId" class="btn btn-primary"> Edit</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+    </table>
