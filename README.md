@@ -6,7 +6,7 @@
 - [Features](#Features)
 
 ## Description:
-Students_Departments is a CRUD system that help colleges to assign students and store their information in a data base, adding deparmtnes in the college and assign the students in it.
+Students_Departments is a CRUD system that help colleges to assign students and store their information in a data base, adding departments in the college and assign the students in it.
 
 this system is simple add/edit/delete students and deparments and remove students from a deparment. that will make the process of assign the new students to the college is easy now.
 
